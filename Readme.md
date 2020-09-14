@@ -1,4 +1,4 @@
-## Demo for installing ECK/
+## Demo for installing ECK/Elasticsearch cluster, Kibana and Fluentd using Kubernetes operators.
 
 ```bash
 # Install OLM (Operator Lifecycle Management)
