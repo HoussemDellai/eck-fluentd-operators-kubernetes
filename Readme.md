@@ -88,3 +88,11 @@ kubectl get secret quickstart-es-elastic-user -n logging -o=jsonpath='{.data.ela
 # Access Kibana dashboard
 kubectl port-forward -n logging svc/quickstart-kb-http 5601
 ```
+
+### Resources used in this demonstration  
+https://banzaicloud.com/docs/one-eye/logging-operator/quickstarts/es-nginx/  
+https://banzaicloud.com/docs/one-eye/logging-operator/deploy  
+https://github.com/banzaicloud/logging-operator  
+https://github.com/operator-framework/operator-lifecycle-manager  
+
+
