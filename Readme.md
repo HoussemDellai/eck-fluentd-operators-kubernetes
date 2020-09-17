@@ -1,5 +1,9 @@
 ## Demo for installing ECK/Elasticsearch cluster, Kibana and Fluentd using Kubernetes operators.
 
+Video demonstration available: https://www.youtube.com/watch?v=_vBLZmAi414&list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE&index=30
+
+<a href="https://www.youtube.com/watch?v=_vBLZmAi414&list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE&index=30"> <img src="https://github.com/HoussemDellai/eck-fluentd-operators-kubernetes/blob/master/efk-operator.jpg" /></a>
+
 ```bash
 # Install OLM (Operator Lifecycle Management)
 kubectl apply -f https://github.com/operator-framework/operator-lifecycle-manager/releases/download/0.16.1/crds.yaml
